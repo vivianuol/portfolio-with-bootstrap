@@ -32,8 +32,8 @@ nav {
     background-color: #4aaaa5;
     display: inline-block;
     width: 30%;
-    padding: 0 40px;
-    margin: 0 30px;
+    padding: 0  30px;
+    margin: 0;
 
 }
 
@@ -71,6 +71,14 @@ nav {
 .biography {
     text-align: justify;
 }
+
+
+.banner {
+    position: relative;
+    width: 120px;
+    height: 120px;
+}
+
 
 footer {
     background: #666666;
